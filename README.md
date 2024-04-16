@@ -144,7 +144,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](image.png)
+![alt text](<Screenshot (9).png>)
 
 
 ## RESULT:
